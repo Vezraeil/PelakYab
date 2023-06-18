@@ -1,0 +1,3 @@
+# PelakYab
+
+pip install colorama
